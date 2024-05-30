@@ -1,0 +1,348 @@
+#icon{
+    
+    background-color: rgba(0, 255, 255,0.1);
+    border: 1px;
+}
+.logo{
+    position: relative;
+    top: 20px;
+    height: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.text{
+   height: 28px;
+   width: 500px;
+   position: relative;
+   bottom: 14px;
+   left: 11px;
+   
+   border: 1px;
+   background-color: rgba(0, 255, 255,0.1);
+   font-weight: lighter;
+   font-size: larger;
+}
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+.button{
+    width: fit-content;
+    height: 37px;
+    border: 1px solid white;
+    display: inline-flex;
+    align-items: center;
+    transform: translate(7px,-7px);
+    background-color: rgba(255,255,255);
+    margin-left: 30px;
+}
+.login{
+    transform: translate(2px);
+    font-family: system-ui;
+    font-size: 18px;
+    margin: 0px 0px 0px 8px;
+}
+#arrow{
+    width: fit-content;
+    height: 37px;
+    border: 1px solid white;
+    display: inline-flex;
+    align-items: center;
+    transform: translate(7px,-7px);
+    background-color: rgba(255,255,255);
+    margin-right: 60px;
+
+}
+
+.cart{
+    position: relative;
+    bottom: 5px;
+    
+}
+.my_cart{
+    display: inline-flex;
+}
+#cart_{
+    margin-left: 10px;
+    transform: translate(5px,-23px);
+    font-size: larger;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-right: 20px;
+}
+.sell{
+    transform: translate(40px,-5px);
+    height: 30px;
+}
+#sell{
+    font-family: sans-serif;
+    position: relative;
+    left: 50px;
+    bottom: 15px;
+
+}
+.sell_{
+    display:inline-flex;
+}
+#dot{
+    position: relative;
+    left: 120px;
+    bottom: 5px;
+
+}
+.mobile{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+body{
+    background-color: rgba(0, 0, 0,0.1);
+}
+.container_2{
+    height: 150px;
+    width: 95%;
+    background: white;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+#grocery{
+    position: relative;
+    left: 70px;
+    top: 10px;
+   
+}
+.grocery{
+    font-family: sans-serif;
+    position: relative;
+    bottom: 13px;
+    left: 16px;
+    font-weight: bold;
+}
+.mobile{
+    transform: translate(100px,-220px);
+}
+#mobile{
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 210px;
+    bottom: 137px;
+}
+.fashion{
+    transform: translate(330px,-260px);
+}
+#fashion{
+    font-family: sans-serif;
+    position: relative;
+    left: 340px;
+    font-weight: bold;
+    bottom: 270px;
+}
+.electronics{
+    transform: translate(470px,-388px);
+}
+#electronics{
+    font-family: sans-serif;
+    position: relative;
+    left: 470px;
+    font-weight: bold;
+    bottom: 407px;
+}
+.furniture{
+    transform: translate(650px,-520px);
+
+}
+#furniture{
+    font-family: sans-serif;
+    position: relative;
+    left: 620px;
+    font-weight: bold;
+    bottom: 538px;
+}
+.appliance{
+    transform: translate(830px,-656px);
+}
+#appliance{
+    font-family: inter_semi_bold, fallback-inter_semi_bold, Arial, sans-serif;
+    position: relative;
+    left: 830px;
+    font-weight: bold;
+    bottom: 669px;
+}
+.travel{
+    transform: translate(960px,-795px);
+}
+#travel{
+    font-family: sans-serif;
+    position: relative;
+    left: 980px;
+    font-weight: bold;
+    bottom: 805px;
+}
+.toys{
+    transform: translate(1100px,-915px);
+}
+#toys{
+    font-family: sans-serif;
+    position: relative;
+    left: 1081px;
+    font-weight: bold;
+    bottom: 937px;
+}
+.bike{
+    transform: translate(1300px,-1050px);
+}
+#bike{
+    font-family: sans-serif;
+    position: relative;
+    left: 1290px;
+    font-weight: bold;
+    bottom: 1070px;
+}
+.container_3{
+    height: 200px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 30px;
+}
+.container_4{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+    transform: translate(0,60px);
+}
+#text{
+    font-family: sans-serif;
+    
+    font-size: 25px;
+}
+.box{
+    width: 15%;
+    height: 280px;
+    
+    position: relative;
+    left: 30px;
+
+}
+#watch{
+    height: 210px;
+    transform: translate(6px);
+}
+.material-symbols-outlined{
+    height: 2px;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+}
+.from{
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+    font-family: sans-serif;
+}
+#smart{
+    font-size: 20px;
+    transform: translate(17px,-10px);
+    font-family: sans-serif;
+}
+#box{
+    position: relative;
+    left: 350px;
+    bottom: 330px;
+    width: 100px;
+}
+#ear{
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+    font-family: sans-serif;
+}
+.bud{
+    height: 270px;
+}
+.from2{
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.camera{
+    height: 200px;
+    transform: translate(550px,-550px);
+}
+#camera{
+    position: relative;
+    bottom: 560px;
+    left: 650px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.from1{
+    position: relative;
+    bottom: 580px;
+    left: 630px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#icon{
+    transform: translate(600px,-541px);
+}
+.monitor{
+    transform: translate(950px,-790px);
+}
+#monitor{
+    position: relative;
+    left: 1010px;
+    bottom: 810px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.from3{
+    position: relative;
+    left: 1000px;
+    bottom: 830px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+#from3{
+    position: relative;
+    left: 1000px;
+    bottom: 823px;
+}
+.iphone{
+    position: relative;
+    left: 1220px;
+    bottom: 1170px;
+}
+#iphone{
+    position: relative;
+    left: 1310px;
+    bottom: 1180px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.from4{
+    position: relative;
+    left: 1300px;
+    bottom: 1200px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#from4{
+    position: relative;
+    left: 1300px;
+    bottom: 1192px;
+}
+#icon_1{
+    position: relative;
+    top: 9px;
+    right: 20px;
+}
